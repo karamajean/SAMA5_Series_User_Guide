@@ -1,3 +1,3 @@
-# holystone SAMA5D2 guide 
+# Micochip SAMA5 series guide 
 
 
