@@ -3,17 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sama5's documentation!
+[HolyStone] Microchip SAMA5 
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Microchip SAMA5:
+
+   buildroot/buildroot
+   enviorment/env
+   README
+   about_us
+   TODO
 
 
 
 Indices and tables
-==================
+=================================
 
 * :ref:`genindex`
 * :ref:`modindex`
